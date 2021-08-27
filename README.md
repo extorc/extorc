@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @extorc
-- 👀 I’m interested in Python , Java , 3D Modelling , Spaceflight , ModelRocketery , Arduino
+- 👋 Hi, I’m Shaurya , but go by the name Extorc
+- 👀 I’m interested in Python , Java , 3D Modelling , Spaceflight , ModelRocketery , Arduino , Physics , Engineering
 - 🌱 I’m currently learning Python , Blender , Arduino
 - 💞️ I’m looking to collaborate on Model rocketery , Python
-- 📫 How to reach me : discord : https://discord.gg/ZPWwgTSauf
+- 📫 How to reach me : discord : https://discord.gg/ExGxmUZnq5
 
 <!---
 extorc/extorc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
