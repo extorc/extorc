@@ -2,7 +2,6 @@
 - 👀 I’m interested in Python , Java, C++, Graphics Computation, Spaceflight , ModelRocketery, Physics , Engineering
 - 🌱 I’m currently learning C++ , Blender , Arduino
 - 💞️ I’m looking to collaborate on Graphics Computation(OpenGL) , Model Rockery
-- 📫 How to reach me : discord : Smittle#7195
 
 ![extorc github stats](https://github-readme-stats.vercel.app/api?username=extorc&show_icons=true&hide_border=true)
 
