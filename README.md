@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Shaurya , but go by the name Extorc
-- 👀 I’m interested in Python , Java, C++, Graphics Computation, Spaceflight , ModelRocketery, Physics , Engineering
-- 🌱 I’m currently learning C++ , Blender , Arduino
-- 💞️ I’m looking to collaborate on Graphics Computation(OpenGL) , Model Rockery
+- 👋 Hi, I’m Shaurya Mittal
+- 👀 I’m interested in Python , C++, Graphics Computation, Dynamic simulations, Spaceflight , ModelRocketery, Engineering
+- 🌱 I’m currently learning C++
 
 ![extorc github stats](https://github-readme-stats.vercel.app/api?username=extorc&show_icons=true&hide_border=true)
 
